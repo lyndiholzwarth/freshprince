@@ -1,0 +1,13 @@
+h1 {
+	color: red;
+}
+
+body{
+	background-color: gray;
+	text-align: center;
+	font-family: sans-serif;
+}
+
+ul{
+	text-align: left;
+}
